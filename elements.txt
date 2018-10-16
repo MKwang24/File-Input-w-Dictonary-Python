@@ -1,0 +1,17 @@
+# This file lists several elements by symbol and their melting point
+# in Kelvin and density in grams per cubic centimeter.
+# Source: https://en.wikipedia.org/wiki/Chemical_element
+Element	Melt. Pt.	Density
+K	336	0.862
+Ca	1115	1.55
+Sc	1814	2.985
+Ti	1941	4.506
+V	2183	6.0
+Cr	2180	7.19
+Mn	1519	7.21
+Fe	1811	7.874
+Co	1768	8.90
+Ni	1728	8.908
+Cu	1357	8.96
+Zn	692	7.14
+END
